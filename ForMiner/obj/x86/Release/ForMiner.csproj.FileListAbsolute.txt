@@ -1,0 +1,12 @@
+C:\Documents and Settings\Kipel\мои документы\visual studio 2010\Projects\ForMiner\ForMiner\bin\Release\ForMiner.exe
+C:\Documents and Settings\Kipel\мои документы\visual studio 2010\Projects\ForMiner\ForMiner\bin\Release\ForMiner.pdb
+C:\Documents and Settings\Kipel\мои документы\visual studio 2010\Projects\ForMiner\ForMiner\bin\Release\Emgu.CV.dll
+C:\Documents and Settings\Kipel\мои документы\visual studio 2010\Projects\ForMiner\ForMiner\bin\Release\Emgu.CV.UI.dll
+C:\Documents and Settings\Kipel\мои документы\visual studio 2010\Projects\ForMiner\ForMiner\bin\Release\Emgu.Util.dll
+C:\Documents and Settings\Kipel\мои документы\visual studio 2010\Projects\ForMiner\ForMiner\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kipel\мои документы\visual studio 2010\Projects\ForMiner\ForMiner\obj\x86\Release\ForMiner.Form1.resources
+C:\Documents and Settings\Kipel\мои документы\visual studio 2010\Projects\ForMiner\ForMiner\obj\x86\Release\ForMiner.Properties.Resources.resources
+C:\Documents and Settings\Kipel\мои документы\visual studio 2010\Projects\ForMiner\ForMiner\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Kipel\мои документы\visual studio 2010\Projects\ForMiner\ForMiner\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Kipel\мои документы\visual studio 2010\Projects\ForMiner\ForMiner\obj\x86\Release\ForMiner.exe
+C:\Documents and Settings\Kipel\мои документы\visual studio 2010\Projects\ForMiner\ForMiner\obj\x86\Release\ForMiner.pdb

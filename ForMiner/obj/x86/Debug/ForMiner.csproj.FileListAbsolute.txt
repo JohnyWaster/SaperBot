@@ -1,0 +1,9 @@
+c:\documents and settings\kipel\мои документы\visual studio 2010\Projects\ForMiner\ForMiner\bin\Debug\ForMiner.exe
+c:\documents and settings\kipel\мои документы\visual studio 2010\Projects\ForMiner\ForMiner\bin\Debug\ForMiner.pdb
+c:\documents and settings\kipel\мои документы\visual studio 2010\Projects\ForMiner\ForMiner\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\kipel\мои документы\visual studio 2010\Projects\ForMiner\ForMiner\obj\x86\Debug\ForMiner.Form1.resources
+c:\documents and settings\kipel\мои документы\visual studio 2010\Projects\ForMiner\ForMiner\obj\x86\Debug\ForMiner.Properties.Resources.resources
+c:\documents and settings\kipel\мои документы\visual studio 2010\Projects\ForMiner\ForMiner\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\kipel\мои документы\visual studio 2010\Projects\ForMiner\ForMiner\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\kipel\мои документы\visual studio 2010\Projects\ForMiner\ForMiner\obj\x86\Debug\ForMiner.exe
+c:\documents and settings\kipel\мои документы\visual studio 2010\Projects\ForMiner\ForMiner\obj\x86\Debug\ForMiner.pdb
